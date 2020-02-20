@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\bin\Debug\netcoreapp3.1\PropellerheadCI.Data.deps.json
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\bin\Debug\netcoreapp3.1\PropellerheadCI.Data.dll
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\bin\Debug\netcoreapp3.1\PropellerheadCI.Data.pdb
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\bin\Debug\netcoreapp3.1\PropellerheadCI.Business.dll
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\bin\Debug\netcoreapp3.1\PropellerheadCI.Business.pdb
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\obj\Debug\netcoreapp3.1\PropellerheadCI.Data.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\obj\Debug\netcoreapp3.1\PropellerheadCI.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\obj\Debug\netcoreapp3.1\PropellerheadCI.Data.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\obj\Debug\netcoreapp3.1\PropellerheadCI.Data.csproj.CopyComplete
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\obj\Debug\netcoreapp3.1\PropellerheadCI.Data.dll
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Data\obj\Debug\netcoreapp3.1\PropellerheadCI.Data.pdb

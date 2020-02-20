@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\bin\Debug\netcoreapp3.1\PropellerheadCI.Business.deps.json
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\bin\Debug\netcoreapp3.1\PropellerheadCI.Business.dll
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\bin\Debug\netcoreapp3.1\PropellerheadCI.Business.pdb
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\obj\Debug\netcoreapp3.1\PropellerheadCI.Business.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\obj\Debug\netcoreapp3.1\PropellerheadCI.Business.AssemblyInfo.cs
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\obj\Debug\netcoreapp3.1\PropellerheadCI.Business.dll
+C:\Users\DELL\source\repos\PropellerheadCustomerInfo\src\PropellerheadCI.Business\obj\Debug\netcoreapp3.1\PropellerheadCI.Business.pdb
